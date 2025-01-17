@@ -6,3 +6,6 @@ situational variables. Created decision-making framework that considers various 
 variables to deliver a verdict on whether a conversion attempt will be successful. 
 • Leveraged logistic regression, feature importance selection, and random forests to predict binary outcomes, using 
 football context to optimize model features, and understanding team dynamics, field conditions, and strategy. 
+
+This analysis uses the nfl_data_py library.
+nfl_data_py: https://github.com/cooperdff/nfl_data_py
