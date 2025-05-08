@@ -9,3 +9,15 @@ football context to optimize model features, and understanding team dynamics, fi
 
 This analysis uses the nfl_data_py library.
 nfl_data_py: https://github.com/cooperdff/nfl_data_py
+
+## My Contributions
+
+This project was completed as part of a collaborative team effort.
+
+**My individual contributions included:**
+- Assisting with data scraping from sources like PFF and Pro Football Reference
+- Cleaning and processing data to ensure quality and readiness for modeling
+- Reviewing and verifying visualizations for accuracy, clarity, and presentation quality
+- Collaborating with the team on analysis interpretation and delivery
+
+This fork serves as my personal record of the project and highlights my applied experience with data scraping, data quality assurance, visualization review, and collaborative data analysis.
